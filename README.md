@@ -22,11 +22,11 @@ An interactive Tableau dashboard built to analyze and optimize student finances.
 - 📅 **Calendar Heat Map**  
   Shows the frequency and intensity of financial transactions across weekdays and months.
 
-- 🧭 **Pending Behavior Matrix – Weekdays vs Importance**  
+- 🧭 **Spending Behavior Matrix – Weekdays vs Importance**  
   A bubble matrix mapping spending behavior against importance across different days of the week.
 
 - 🌳 **Investment Universe**  
-  Tree map visualization of various investment types and their proportions in total investment.
+  Bubble chart visualization of various investment types and their proportions in total investment.
 
 - 📋 **Transaction Analysis Table**  
   A fully dynamic table for transaction-level data exploration, filtering, and insights.
