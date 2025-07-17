@@ -1,7 +1,6 @@
 # THE-FINANCIAL-FLOW-INTELLIGENCE---STUDENT-FINANCE-INSIGHTS
 An interactive Tableau dashboard built to analyze and optimize student finances. Featuring 9 advanced charts, it delivers clear insights on income, expenses, savings, and investments. Combines clean design, smart analytics, and real-time storytelling for impactful decision-making.
 
-![Dashboard Preview](https://drive.google.com/file/d/1ktLImvj2rzg9bVy6bJYK4otWaCR9Y9UY/view?usp=sharing)
 
 ## 📈 Dashboard Components
 
